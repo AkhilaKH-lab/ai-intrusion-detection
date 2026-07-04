@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Driven Intrusion Detection System for Cloud-Based E-Learning Environments
 
 ## 📌 Project Overview
@@ -50,3 +51,7 @@ ai-intrusion-detection/
 ### 1. Install dependencies
 ```bash
 pip install pandas scikit-learn
+=======
+# ai-intrusion-detection
+AI-based intrusion detection system for cloud e-learning environment (learning project)
+>>>>>>> 0922974d928e1a7ad7eef61a6adaa7706cbd30e4
