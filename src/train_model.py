@@ -13,7 +13,7 @@ X = data[["failed_logins", "session_duration", "unusual_activity"]]
 y = data["label"]
 
 # Split data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # Create AI model
 model = LogisticRegression()
